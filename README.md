@@ -17,6 +17,9 @@ This backend pool contains the virtual machines, which has the code base of paym
 
 For this project, I have created 3 Ubuntu VM's and have added one VM in each backend pool. Each backend pool contains one VM with it's respective microservice code base configured with Apache2 web server.
 
+Target: List/Count of Virtual Machines in that backend pool
+Rules associalted: List/Count of Routing Rules in that backend pool
+
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/b5eca04c-ece9-40c6-ba47-dd0752f8151f)
 
 We can add VMs, VMSS, Availibality sets, On-premises VMS, Specific ip address or domain names in backend pools of Application Gateway. It also has WAF, Web Application Firewall, which enhances the security of our applications.<br>
