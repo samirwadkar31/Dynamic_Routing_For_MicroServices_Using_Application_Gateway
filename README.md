@@ -17,4 +17,7 @@ This backend pool contains the virtual machines, which has the code base of paym
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/b5eca04c-ece9-40c6-ba47-dd0752f8151f)
 
- 
+For this project, I have created 3 Ubuntu VM's and have added one VM in each backend pool. Each backend pool contains one VM with it's respective microservice code base configured with Apache2 web server.
+
+
+
