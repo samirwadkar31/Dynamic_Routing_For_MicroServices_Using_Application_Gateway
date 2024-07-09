@@ -30,11 +30,12 @@ Have created the backend setting which talks to backend pool vms on port 80
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/507b6b71-1c45-4ee8-bb38-c520eed9a802)
 
-Now, main part - path based routing rules:
+Now, main part - path based routing rules:<br>
+<br>
+When user clicks on application-gate-way-public-ip-address, it returns the response from the backend pool which we have mentioned here as a default. Hence, I have created one sameer-default-page-backend pool where, I have stored home page code.
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/301350fc-0773-4551-aadc-1e0c32c3af6f)
 
-When user clicks on application-gate-way-public-ip-address, it returns the response from the backend pool which we have mentioned here as a default. Hence, I have created one sameer-default-page-backend pool where, I have stored home page code.
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/291cba40-1650-46ef-9adf-6c218350b97d)
 
