@@ -44,7 +44,7 @@ When user clicks on application-gate-way-public-ip-address, it returns the respo
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/288a3bcb-c186-46df-a945-58b3377fc189)
 
-Application gateway uses these rules to manage and distribute the traffic across differnt backend pools/ microservices.
+Application gateway use these rules to manage and distribute the traffic across differnt backend pools/ microservices.
 
 Let's put **application_gateway_ip_address** in the browser, <br>
 
