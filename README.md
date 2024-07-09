@@ -1,6 +1,6 @@
 # Dynamic_Routing_For_MicroServices_Using_Application_Gateway
 
-Provisioned the Application Gateway on Azure Cloud to handle the traffic for differen microservices.
+Provisioned the Application Gateway on Azure Cloud to handle the traffic for different micro-services.
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/facc3490-9de1-429d-a57d-21f803d46562)
 
