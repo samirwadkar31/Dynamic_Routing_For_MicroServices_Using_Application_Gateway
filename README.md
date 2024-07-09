@@ -51,12 +51,12 @@ It has directed this request to sameer-default-page-backend pool VM.
 
 Let's click on products button and see, where the application gatway directs us,<br>
 
-Beacuse of this routing rule /products* , application gateway has directed us to sameer-products-backend pool where our products code base is present.
+Beacuse of this routing rule /products* , application gateway has directed us to sameer-products-backend pool VMs where our products code base is present.
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/9b167930-634a-4d5d-b5de-89654c30e369)
 
 Let's click on payments button and see, where the application gatway directs us,<br>
 
-Beacuse of this routing rule /payments* , application gateway has directed us to sameer-payments-backend pool where our payments code base is present.
+Beacuse of this routing rule /payments* , application gateway has directed us to sameer-payments-backend pool VMs where our payments code base is present.
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/a1191081-76fc-4ee2-ad93-b3fee357a7a7)
