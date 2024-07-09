@@ -22,7 +22,7 @@ Rules associalted: List/Count of Routing Rules in that backend pool
 
 ![image](https://github.com/samirwadkar31/Dynamic_Routing_For_MicroServices_Using_Application_Gateway/assets/74359548/b5eca04c-ece9-40c6-ba47-dd0752f8151f)
 
-We can add VMs, VMSS, Availibality sets, On-premises VMS, Specific ip address or domain names in backend pools of Application Gateway. It also has WAF, Web Application Firewall, which enhances the security of our applications.<br>
+We can add VMs, VMSS, Availibality sets, On-premises VMS, Specific ip address or domain names in backend pools of Application Gateway. It also has WAF feature, Web Application Firewall, which enhances the security of our applications.<br>
 <br>
 
 Have created http listener wich listens on http port 80. You can create for https port 443, custom ports like 8089 etc as per the requirement. 
